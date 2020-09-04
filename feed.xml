@@ -1,25 +1,47 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-09-04T12:09:36+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Paolo Facchinetti’s website</title><subtitle>Personal blog. I talk about open source software, trading and cryptocurrencies.</subtitle><entry><title type="html">DeFi: The new frontier for Web3 or just another bubble?</title><link href="http://localhost:4000/crypto/2020/09/04/DeFi.html" rel="alternate" type="text/html" title="DeFi: The new frontier for Web3 or just another bubble?" /><published>2020-09-04T10:42:53+02:00</published><updated>2020-09-04T10:42:53+02:00</updated><id>http://localhost:4000/crypto/2020/09/04/DeFi</id><content type="html" xml:base="http://localhost:4000/crypto/2020/09/04/DeFi.html">&lt;p&gt;Decentralized Finance&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-09-04T17:12:08+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Paolo Facchinetti’s website</title><subtitle>Personal blog. I talk about open source software, trading and cryptocurrencies.</subtitle><entry><title type="html">DeFi: The bleeding edge of Blockchain and Web3</title><link href="http://localhost:4000/crypto/defi-bleeding-edge" rel="alternate" type="text/html" title="DeFi: The bleeding edge of Blockchain and Web3" /><published>2020-09-04T10:42:53+02:00</published><updated>2020-09-04T10:42:53+02:00</updated><id>http://localhost:4000/crypto/defi-bleeding-edge</id><content type="html" xml:base="http://localhost:4000/crypto/defi-bleeding-edge">&lt;p&gt;Decentralized Finance (also known as &lt;strong&gt;DeFi&lt;/strong&gt;) is &lt;em&gt;an ecosystem of financial applications built on top of blockchain networks&lt;/em&gt;.&lt;br /&gt;
+But what does this mean?&lt;/p&gt;
 
+&lt;p&gt;If you aren’t familiar with modern blockchain applications such as &lt;a href=&quot;https://ethereum.org/en/dapps/&quot;&gt;Ethereum’s Decentralized Applications&lt;/a&gt; (or dApps), think of them as open source, distributed applications or services that are accessible by anyone that has access to the internet and has an Ethereum wallet.&lt;br /&gt;
+The DeFi ecosystem is made of dozens of different dApps that share the objecting of porting and improving financial instruments to the blockchain.&lt;/p&gt;
+
+&lt;p&gt;This probably sounds very vague to anyone that isn’t familiar with dApps, so let’s look into a DeFi application.&lt;/p&gt;
+
+&lt;h1 id=&quot;aave-protocol---money-markets-on-the-ethereum-blockchain&quot;&gt;Aave Protocol - Money Markets on the Ethereum blockchain&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://aave.com/&quot;&gt;Aave&lt;/a&gt; is a protocol built on Ethereum that enables the creation of money markets. Users can lend or borrow assets through these markets, and earn interest on their deposits.&lt;/p&gt;
+
+&lt;p&gt;Sounds familiar to you? Probably so, because that’s the basic definition of loans.&lt;/p&gt;
+
+&lt;p&gt;So, why should you go through the trouble of using Aave, possibly with &lt;a href=&quot;https://en.wikipedia.org/wiki/Stablecoin&quot;&gt;stable coins&lt;/a&gt; (crypto assets pegged to the US Dollar), instead of just using the services offered by your bank?&lt;/p&gt;
+
+&lt;p&gt;I’ll let the numbers do the talk:&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;what is defi&lt;/li&gt;
-  &lt;li&gt;cool shit in defi&lt;/li&gt;
-  &lt;li&gt;scams in defi&lt;/li&gt;
-  &lt;li&gt;youtube player smartcon sergey etc.&lt;/li&gt;
-  &lt;li&gt;recap/evaluation&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="crypto" /><summary type="html">Decentralized Finance</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2020/09/01/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2020-09-01T15:42:53+02:00</published><updated>2020-09-01T15:42:53+02:00</updated><id>http://localhost:4000/jekyll/update/2020/09/01/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/09/01/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+  &lt;li&gt;According to &lt;a href=&quot;https://www.investopedia.com/personal-finance/banks-pay-highest-interest-rates-savings-accounts/&quot;&gt;Investopedia&lt;/a&gt;, as of September 2020, the highest bank yearly interest rates are around 1.00% to 1.10%&lt;/li&gt;
+  &lt;li&gt;Currently, Aave offers&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+&lt;h1 id=&quot;the-bleeding-edge&quot;&gt;The Bleeding Edge&lt;/h1&gt;
 
-&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;From a theoretical standpoint, DeFi sounds awesome.&lt;br /&gt;
+It offers much, much better returns than traditional finance and it’s only getting started!&lt;/p&gt;
 
-&lt;p&gt;Where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;So, what’s the drawdown?&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;Well, like many technological innovations, DeFi is considered to be on the bleeding edge of crypto and Web3.&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Bleeding edge technology is a category of technologies so new that they could have a high risk of being unreliable and lead adopters to incur greater expense in order to make use of them.&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
+&lt;p&gt;What does this mean?&lt;br /&gt;
+For starters, that you should be extremely careful when using DeFi dApps.&lt;br /&gt;
+Like all bleeding edge technologies, DeFi consists of experimental tech that hasn’t really passed the test of time.&lt;/p&gt;
+
+&lt;p&gt;Given how much money is locked in these protocols (as of September 2020, over &lt;strong&gt;8 billion USD&lt;/strong&gt;!), hackers are incentivized to look for bugs to exploit, and new scams are perpetrated each day.&lt;/p&gt;
+
+&lt;p&gt;For example, last June the DeFi protocol Balancer was &lt;a href=&quot;https://cointelegraph.com/news/defi-protocol-balancer-hacked-through-exploit-it-seemingly-knew-about&quot;&gt;hacked&lt;/a&gt; for over &lt;strong&gt;$500.000&lt;/strong&gt; in cryptocurrencies.&lt;/p&gt;
+
+&lt;p&gt;But this is what it means to be on the bleeding edge.&lt;br /&gt;
+Venture capitals like &lt;a href=&quot;https://www.threearrowscap.com/&quot;&gt;Three Arrows Capital&lt;/a&gt; and single investors that have decided to speculate on Decentralized Finance have decided to face these risks, and have experienced tremendous returns in the past year.&lt;/p&gt;
+
+&lt;p&gt;For instance, the Aave token has experienced a rise in its market price of an outstanding &lt;strong&gt;4000%&lt;/strong&gt; in the past year.&lt;/p&gt;</content><author><name></name></author><category term="crypto" /><summary type="html">Decentralized Finance (also known as DeFi) is an ecosystem of financial applications built on top of blockchain networks. But what does this mean?</summary></entry></feed>
