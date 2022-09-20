@@ -29,12 +29,28 @@ The DeFi ecosystem is made of dozens of different dApps that share the objecting
     </item>
     
     <item>
-      <title>Resume/CV</title>
+      <title>Curriculum Vitae</title>
       <link>https://paolofacchinetti.it/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://paolofacchinetti.it/cv/</guid>
-      <description>My Resume / Curriculum Vitae</description>
+      <description>Education ITS JobsAcademy - Web Design &amp;amp; Software Development
+Liceo Scientifico F. Lussana - Scienze Applicate
+Work Experience 2020 - Present | DevOps and Cloud developer @ smeup Migrated legacy software to the Cloud, while applying architectural best practices and leveraging AWS technologies.
+Managed both self-managed (k3s) and managed (EKS) Kubernetes clusters. Designed, tested and deployed applications on production kubernetes.
+Built web applications and CLIs with Go and Java for internal usage.</description>
+    </item>
+    
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>https://paolofacchinetti.it/it/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://paolofacchinetti.it/it/cv/</guid>
+      <description>Formazione ITS JobsAcademy - Web Design &amp;amp; Software Development
+Liceo Scientifico F. Lussana - Scienze Applicate
+Esperienza Lavorativa 2020 - Oggi | DevOps e Cloud developer @ smeup Ho effettuato la migrazione di software legacy a Cloud, applicando best practices architetturali e sfruttando tecnologie Cloud AWS.
+Ho gestito clusters Kubernetes &amp;ldquo;self-managed&amp;rdquo; (k3s on OpenSUSE) e PaaS (EKS). Ho costruito, testato ed effettuato il deploy di applicazioni in production su kubernetes.</description>
     </item>
     
     
