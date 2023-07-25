@@ -1,16 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>https://paolofacchinetti.it/en/sitemap.xml</loc>
-    
-      <lastmod>2021-01-21T00:00:00+00:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://paolofacchinetti.it/it/sitemap.xml</loc>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://paolofacchinetti.it/tags/crypto/</loc>
+    <lastmod>2021-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://paolofacchinetti.it/posts/nft/</loc>
+    <lastmod>2021-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://paolofacchinetti.it/tags/nft/</loc>
+    <lastmod>2021-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://paolofacchinetti.it/</loc>
+    <lastmod>2021-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://paolofacchinetti.it/posts/</loc>
+    <lastmod>2021-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://paolofacchinetti.it/tags/</loc>
+    <lastmod>2021-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://paolofacchinetti.it/posts/defi/</loc>
+    <lastmod>2020-09-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://paolofacchinetti.it/categories/</loc>
+  </url><url>
+    <loc>https://paolofacchinetti.it/cv/</loc>
+  </url><url>
+    <loc>https://paolofacchinetti.it/search/</loc>
+  </url>
+</urlset>
