@@ -5,7 +5,7 @@
     <link>https://paolofacchinetti.it/</link>
     <description>Recent content on Paolo Facchinetti</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Thu, 21 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://paolofacchinetti.it/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Generative Art as Non-Fungible-Tokens on Ethereum</title>
@@ -34,7 +34,7 @@ The DeFi ecosystem is made of dozens of different dApps that share the objecting
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://paolofacchinetti.it/cv/</guid>
-      <description>Work Experience 2020 - Present | DevOps and Cloud developer @ smeup Migrated legacy software to the Cloud, while applying architectural best practices and leveraging AWS technologies. Managed both self-managed (k3s) and managed (EKS) Kubernetes clusters. Designed, tested and deployed applications on production kubernetes. Built web applications and CLIs with Go and Java for internal usage. Implemented CICD pipelines with Github Actions and Jenkins. Education ITS JobsAcademy - Web Design &amp;amp; Software Development Liceo Scientifico F.</description>
+      <description>Work Experience 2020 - Present | DevOps and Cloud developer @ smeup  Migrated legacy software to the Cloud, while applying architectural best practices and leveraging AWS technologies. Managed both self-managed (k3s) and managed (EKS) Kubernetes clusters. Designed, tested and deployed applications on production kubernetes. Built web applications and CLIs with Go and Java for internal usage. Implemented CICD pipelines with Github Actions and Jenkins.   Education  ITS JobsAcademy - Web Design &amp;amp; Software Development Liceo Scientifico F.</description>
     </item>
     
     
