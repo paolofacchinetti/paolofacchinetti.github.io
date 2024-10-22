@@ -1,0 +1,48 @@
+baseURL: 'https://paolofacchinetti.it'
+languageCode: 'en-us'
+title: 'Paolo Facchinetti'
+theme: 'PaperMod'
+
+
+menu:
+    main:
+        - name: CV
+          url: cv
+          weight: 5
+        - name: Blog
+          url: posts/
+          weight: 10
+        - name: GitHub
+          url: https://github.com/paolofacchinetti/
+        - name: Linkedin
+          url: https://www.linkedin.com/in/paolofacchinetti/
+
+languages:
+    en:
+        languageName: ":us:"
+        weight: 1
+
+params:
+    env: production
+    description: "Paolo Facchinetti's website"
+    author: Paolo Facchinetti
+    displayFullLangName: true
+    ShowPostNavLinks: true
+    ShowBreadCrumbs: true
+    ShowCodeCopyButtons: true
+    ShowRssButtonInSectionTermList: true
+    ShowToc: true
+
+    profileMode:
+      enabled: true
+      title: 'Paolo Facchinetti'
+      imageUrl: "https://avatars.githubusercontent.com/u/51409747"
+      imageTitle: paolofacchinetti
+      # imageWidth: 120
+      # imageHeight: 120
+      subtitle: "developer focused on DevOps, Cloud and Web3"
+      buttons:
+          - name: CV
+            url: cv
+          - name: Blog
+            url: posts
