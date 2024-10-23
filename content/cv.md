@@ -59,8 +59,8 @@ ShowBreadCrumbs: false
 
 ## Open Source Contributions
 
-### [Reth](https://github.com/paradigmxyz/reth/commits?author=paolofacchinetti), _Rust implementation of the Ethereum protocol_
-- Docker, Prometheus and Grafana improvements
+### [Reth](https://reth.rs/), _Rust implementation of the Ethereum protocol_
+- [Docker, Prometheus and Grafana improvements](https://github.com/paradigmxyz/reth/commits?author=paolofacchinetti)
 
-### [HyperLiquid](https://github.com/hyperliquid-dex/node/commits?author=paolofacchinetti), _decentralized perpetual exchange_
-- Docker, Docker Compose improvements
+### [HyperLiquid](https://hyperliquid.xyz), _decentralized perpetual exchange_
+- [Docker, Docker Compose improvements](https://github.com/hyperliquid-dex/node/commits?author=paolofacchinetti)
