@@ -64,3 +64,6 @@ ShowBreadCrumbs: false
 
 ### [HyperLiquid](https://hyperliquid.xyz), _decentralized perpetual exchange_
 - [Docker, Docker Compose improvements](https://github.com/hyperliquid-dex/node/commits?author=paolofacchinetti)
+
+### [Ethereum Helm Charts](https://github.com/ethpandaops/ethereum-helm-charts), _Helm Charts for Ethereum_
+- [Minor Chart and GitHub Actions fixes](https://github.com/ethpandaops/ethereum-helm-charts/commits?author=paolofacchinetti)
