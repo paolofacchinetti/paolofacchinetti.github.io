@@ -18,8 +18,8 @@ ShowBreadCrumbs: false
 
 ## Education
 
-- ITS JobsAcademy - Web Design & Software Development
-- Liceo Scientifico F. Lussana - Applied Sciences
+- 5th level EQF: ITS JobsAcademy - Web Design & Software Development
+- High School: Liceo Scientifico F. Lussana - Applied Sciences
 
 ---
 
