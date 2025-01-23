@@ -12,7 +12,7 @@ ShowBreadCrumbs: false
 - Migrated legacy software to the Cloud, while applying architectural best practices and leveraging AWS technologies
 - Managed both self-managed (k3s) and managed (EKS) Kubernetes clusters. Designed, tested and deployed applications on production kubernetes
 - Built a tailor made telemetry collection system using Go, AWS and MongoDB
-- Implemented CICD pipelines with Github Actions and Jenkins
+- Implemented CICD pipelines with Github Actions, Jenkins and ArgoCD
 
 ---
 
@@ -36,11 +36,11 @@ ShowBreadCrumbs: false
 - Database: RDS, DMS
 - Other: Lambda, API Gateway, CloudWatch, VPC, Route53
 
-### Devops
+### DevOps
 
 - Kubernetes: EKS, K3S, OpenShift
 - Containers: Docker, Docker Compose
-- CI/CD: Github Actions, Jenkins, Gitlab CI
+- CI/CD: Github Actions, Jenkins, Gitlab CI, ArgoCD
 - Monitoring: Prometheus, Loki, Grafana
 - Tracing: OpenTelemetry, Jaeger
 
