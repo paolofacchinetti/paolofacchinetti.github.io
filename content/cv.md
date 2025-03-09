@@ -7,7 +7,7 @@ ShowBreadCrumbs: false
 
 ## Work Experience
 
-### 2020 - Present | DevOps and Cloud developer @ [smeup](https://smeup.com)
+### 2020 - 2025 | DevOps and Cloud developer @ [smeup](https://smeup.com)
 
 - Migrated legacy software to the Cloud, while applying architectural best practices and leveraging AWS technologies
 - Managed both self-managed (k3s) and managed (EKS) Kubernetes clusters. Designed, tested and deployed applications on production kubernetes
