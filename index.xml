@@ -1,4 +1,64 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Paolo Facchinetti</title><link>https://paolofacchinetti.it/</link><description>Recent content on Paolo Facchinetti</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 21 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://paolofacchinetti.it/index.xml" rel="self" type="application/rss+xml"/><item><title>Generative Art as Non-Fungible-Tokens on Ethereum</title><link>https://paolofacchinetti.it/posts/nft/</link><pubDate>Thu, 21 Jan 2021 00:00:00 +0000</pubDate><guid>https://paolofacchinetti.it/posts/nft/</guid><description>Generative art refers to art that in whole or in part has been created with the use of an autonomous system. An autonomous system in this context is generally one that is non-human and can independently determine features of an artwork that would otherwise require decisions made directly by the artist. In some cases the human creator may claim that the generative system represents their own artistic idea, and in others that the system takes on the role of the creator.</description></item><item><title>DeFi: The bleeding edge of Blockchain and Web3</title><link>https://paolofacchinetti.it/posts/defi/</link><pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate><guid>https://paolofacchinetti.it/posts/defi/</guid><description>Decentralized Finance (also known as DeFi) is an ecosystem of financial applications built on top of blockchain networks.
-But what does this mean?
-If you aren&amp;rsquo;t familiar with modern blockchain applications such as Ethereum&amp;rsquo;s Decentralized Applications (or dApps), think of them as open source, distributed applications or services that are accessible by anyone that has access to the internet and has an Ethereum wallet.
-The DeFi ecosystem is made of dozens of different dApps that share the objecting of porting and improving financial instruments to the blockchain.</description></item><item><title>Curriculum Vitae</title><link>https://paolofacchinetti.it/cv/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://paolofacchinetti.it/cv/</guid><description>Work Experience 2020 - 2025 | DevOps and Cloud developer @ smeup Migrated legacy software to the Cloud, while applying architectural best practices and leveraging AWS technologies Managed both self-managed (k3s) and managed (EKS) Kubernetes clusters. Designed, tested and deployed applications on production kubernetes Built a tailor made telemetry collection system using Go, AWS and MongoDB Implemented CICD pipelines with Github Actions, Jenkins and ArgoCD Education 5th level EQF: ITS JobsAcademy - Web Design &amp;amp; Software Development High School: Liceo Scientifico F.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Paolo Facchinetti</title><link>https://paolofacchinetti.it/</link><description>Recent content on Paolo Facchinetti</description><generator>Hugo -- 0.145.0</generator><language>en</language><lastBuildDate>Thu, 21 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://paolofacchinetti.it/index.xml" rel="self" type="application/rss+xml"/><item><title>Generative Art as Non-Fungible-Tokens on Ethereum</title><link>https://paolofacchinetti.it/posts/nft/</link><pubDate>Thu, 21 Jan 2021 00:00:00 +0000</pubDate><guid>https://paolofacchinetti.it/posts/nft/</guid><description>&lt;blockquote>
+&lt;p>Generative art refers to art that in whole or in part has been created with the use of an autonomous system. An autonomous system in this context is generally one that is non-human and can independently determine features of an artwork that would otherwise require decisions made directly by the artist. In some cases the human creator may claim that the generative system represents their own artistic idea, and in others that the system takes on the role of the creator.&lt;/p></description></item><item><title>DeFi: The bleeding edge of Blockchain and Web3</title><link>https://paolofacchinetti.it/posts/defi/</link><pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate><guid>https://paolofacchinetti.it/posts/defi/</guid><description>&lt;p>Decentralized Finance (also known as &lt;strong>DeFi&lt;/strong>) is &lt;em>an ecosystem of financial applications built on top of blockchain networks&lt;/em>.&lt;br>
+But what does this mean?&lt;/p>
+&lt;p>If you aren&amp;rsquo;t familiar with modern blockchain applications such as &lt;a href="https://ethereum.org/en/dapps/">Ethereum&amp;rsquo;s Decentralized Applications&lt;/a> (or dApps), think of them as open source, distributed applications or services that are accessible by anyone that has access to the internet and has an Ethereum wallet.&lt;br>
+The DeFi ecosystem is made of dozens of different dApps that share the objecting of porting and improving financial instruments to the blockchain.&lt;/p></description></item><item><title>Curriculum Vitae</title><link>https://paolofacchinetti.it/cv/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://paolofacchinetti.it/cv/</guid><description>&lt;h2 id="work-experience">Work Experience&lt;/h2>
+&lt;h3 id="2020---2025--devops-and-cloud-developer--smeup">2020 - 2025 | DevOps and Cloud developer @ &lt;a href="https://smeup.com">smeup&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>Migrated legacy software to the Cloud, while applying architectural best practices and leveraging AWS technologies&lt;/li>
+&lt;li>Managed both self-managed (k3s) and managed (EKS) Kubernetes clusters. Designed, tested and deployed applications on production kubernetes&lt;/li>
+&lt;li>Built a tailor made telemetry collection system using Go, AWS and MongoDB&lt;/li>
+&lt;li>Implemented CICD pipelines with Github Actions, Jenkins and ArgoCD&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="education">Education&lt;/h2>
+&lt;ul>
+&lt;li>5th level EQF: ITS JobsAcademy - Web Design &amp;amp; Software Development&lt;/li>
+&lt;li>High School: Liceo Scientifico F. Lussana - Applied Sciences&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="skills">Skills&lt;/h2>
+&lt;h3 id="programming-languages">Programming Languages&lt;/h3>
+&lt;ul>
+&lt;li>Go&lt;/li>
+&lt;li>Java&lt;/li>
+&lt;/ul>
+&lt;h3 id="aws">AWS&lt;/h3>
+&lt;ul>
+&lt;li>Containers: EKS, ECR, ECS&lt;/li>
+&lt;li>Database: RDS, DMS&lt;/li>
+&lt;li>Other: Lambda, API Gateway, CloudWatch, VPC, Route53&lt;/li>
+&lt;/ul>
+&lt;h3 id="devops">DevOps&lt;/h3>
+&lt;ul>
+&lt;li>Kubernetes: EKS, K3S, OpenShift&lt;/li>
+&lt;li>Containers: Docker, Docker Compose&lt;/li>
+&lt;li>CI/CD: Github Actions, Jenkins, Gitlab CI, ArgoCD&lt;/li>
+&lt;li>Monitoring: Prometheus, Loki, Grafana&lt;/li>
+&lt;li>Tracing: OpenTelemetry, Jaeger&lt;/li>
+&lt;/ul>
+&lt;h3 id="web3">Web3&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/ethereum/go-ethereum">go-ethereum&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/foundry-rs/foundry">foundry&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://soliditylang.org/">Solidity&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="languages">Languages&lt;/h3>
+&lt;ul>
+&lt;li>English - IELTS C1 8.0&lt;/li>
+&lt;li>Italian - Native speaker&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="open-source-contributions">Open Source Contributions&lt;/h2>
+&lt;h3 id="reth-rust-implementation-of-the-ethereum-protocol">&lt;a href="https://reth.rs/">Reth&lt;/a>, &lt;em>Rust implementation of the Ethereum protocol&lt;/em>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/paradigmxyz/reth/commits?author=paolofacchinetti">Docker, Prometheus and Grafana improvements&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="hyperliquid-decentralized-perpetual-exchange">&lt;a href="https://hyperliquid.xyz">HyperLiquid&lt;/a>, &lt;em>decentralized perpetual exchange&lt;/em>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/hyperliquid-dex/node/commits?author=paolofacchinetti">Docker, Docker Compose improvements&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="ethereum-helm-charts-helm-charts-for-ethereum">&lt;a href="https://github.com/ethpandaops/ethereum-helm-charts">Ethereum Helm Charts&lt;/a>, &lt;em>Helm Charts for Ethereum&lt;/em>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/ethpandaops/ethereum-helm-charts/commits?author=paolofacchinetti">Chart implementation, CI/CD improvements&lt;/a>&lt;/li>
+&lt;/ul></description></item></channel></rss>
