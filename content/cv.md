@@ -7,6 +7,14 @@ ShowBreadCrumbs: false
 
 ## Work Experience
 
+### 2025 - present | DevOps Engineer @ [ChaosLabs](https://chaoslabs.xyz)
+
+- Deploy, manage and scale a fleet of AWS EKS clusters
+- Refactor, centralize and scale secure CI/CD pipelines   
+- Setup Monitoring, Logging and Alerting systems using OpenTelemetry and Datadog
+- Architect and build data ingestion and processing systems by collaborating with cross-functional teams, using DBT, Airflow and Snowflake
+- Optimize and secure network traffic between internal and external services
+
 ### 2020 - 2025 | DevOps and Cloud developer @ [smeup](https://smeup.com)
 
 - Migrated legacy software to the Cloud, while applying architectural best practices and leveraging AWS technologies

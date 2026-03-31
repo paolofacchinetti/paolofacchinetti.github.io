@@ -42,7 +42,7 @@ params:
     title: 'Paolo Facchinetti'
     imageUrl: "https://avatars.githubusercontent.com/u/51409747"
     imageTitle: paolofacchinetti
-    subtitle: "Software Engineer focused on DevOps and Crypto"
+    subtitle: "DevOps, Crypto and other made up words"
     buttons:
     - name: CV
       url: cv
